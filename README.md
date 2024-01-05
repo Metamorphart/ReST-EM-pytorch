@@ -1,4 +1,6 @@
-# ReST^EM - Pytorch (wip)
+<img src="./restem.png" width="400px"></img>
+
+## ReST^EM - Pytorch (wip)
 
 Implementations and explorations into the ReST𝐸𝑀 algorithm in the new deepmind paper <a href="https://arxiv.org/abs/2312.06585">Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models</a>
 
