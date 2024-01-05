@@ -4,6 +4,10 @@
 
 Implementations and explorations into the ReST𝐸𝑀 algorithm in the new deepmind paper <a href="https://arxiv.org/abs/2312.06585">Beyond Human Data: Scaling Self-Training for Problem-Solving with Language Models</a>
 
+## Appreciation
+
+- <a href="https://a16z.com/supporting-the-open-source-ai-community/">A16Z Open Source AI Grant Program</a> and <a href="https://huggingface.co/">🤗 Huggingface</a> for the generous sponsorships, as well as my other sponsors, for affording me the independence to open source current artificial intelligence research
+
 ## Citations
 
 ```bibtex
